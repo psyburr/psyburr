@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kyle</h1>
 <h3 align="center">A stateside junglist.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psyburr" alt="psyburr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psyburr&no-frame=true&no-bg=true" alt="psyburr" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
